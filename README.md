@@ -1,0 +1,2 @@
+# Katas
+Kata 1
